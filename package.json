@@ -83,7 +83,7 @@
   "devDependencies": {
     "@atom/mocha-test-runner": "1.6.1",
     "babel-plugin-istanbul": "8.0.0",
-    "chai": "6.2.2",
+    "chai": "6.3.0",
     "chai-as-promised": "8.0.2",
     "cross-unzip": "0.2.1",
     "dedent-js": "1.0.1",
